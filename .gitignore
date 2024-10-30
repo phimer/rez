@@ -1,0 +1,11 @@
+# Ignore all sqlite files
+*.sqlite
+*.sqlite3
+
+RezzDB.sqlite
+target/
+bin
+
+
+.idea
+.DS_Store
